@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "location": "ARBORETUM POINT",
+            "location_name":    "",
+            "object_name":  "",
+            "point_name":   "",
+            "system_name":  "",
+            "room_id":  "",
+            "floor":    "",
+            "setpoint": "",
+            "alarm_high":   "",
+            "alarm_low":    "",
+            "alert_high":   "",
+            "alert_low":    "",
+            "note_high":    "",
+            "note_low": "",
+            "deadband": "",
+            "alarm_time":   "",
+            "time_zone":    "",
+            "bus_hrs":  "",
+            "non_bus_hrs":  "",
+            "weekends_holidays":    "",
+            "escalate": "",
+            "remarks":  ""
+        }
+    ]
+}
